@@ -1,11 +1,11 @@
 import React, { useEffect } from 'react';
 import './App.css';
 import { BrowserRouter, Route } from 'react-router-dom'
-import Header from './Header/Header'
+import Header from './Header/Header.tsx'
 import { connect } from 'react-redux'
 import * as actions from '../actions'
 import Landing from '../components/Landing/Landing'
-import Dashboard from '../components/Dashboard/Dashboard'
+import Dashboard from '../components/Dashboard/Dashboard.tsx'
 import NewSurvey from '../components/NewSurvey/NewSurvey'
 
 

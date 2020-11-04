@@ -1,2 +1,3 @@
 export const FETCH_USER = 'FETCH_USER'
 export const HANDLE_TOKEN = 'HANDLE_TOKEN'
+export const FETCH_SURVEYS = 'FETCH_SURVEYS'

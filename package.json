@@ -30,7 +30,5 @@
     "sendgrid": "^5.2.3",
     "stripe": "^8.111.0"
   },
-  "devDependencies": {
-    "prettier": "2.1.2"
-  }
+  "devDependencies": {}
 }
